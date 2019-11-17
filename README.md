@@ -1,5 +1,3 @@
-# C++ Border Security System Problem 
-
 # Problem
 ## Border Security System
 In an imaginary world, every country wants to deploy a border security system (BSS). Main controller of BSS will be deployed in capital city of the country. A sensing cable will go straight to nearest border. The sensing cable will then installed along border surrounding country and come back to capital. 
